@@ -33,6 +33,6 @@ export enum permission{
     getUserRole = "getUserRole"
 }
 
-// Super Admin will have all the permissions.
-// Admin will have get and update related permissions.
-// Subscriber will only have get related permissions.
+// Super Admin will have access to all the permissions.
+// Admin will have access to get and update related permissions.
+// Subscriber will only have access to get related permissions.
